@@ -1,0 +1,68 @@
+[
+    {
+        "id":1,
+        "tecla":"a",
+        "mensagem":"Disparando tiro simples do",
+        "descricao":"Ativa o disparo simples do arco primário"
+    },
+    {
+        "id":2,
+        "tecla":"s",
+        "mensagem":"Disparando tiro carregado do",
+        "descricao":"Ativa o disparo carregado do arco primário"
+    },
+    {
+        "id":3,
+        "tecla":"d",
+        "mensagem":"Disparando tiro simples do",
+        "descricao":"Ativa o disparo simples do arco secundário"
+    },
+    {
+        "id":4,
+        "tecla":"f",
+        "mensagem":"Disparando tiro carregado do",
+        "descricao":"Ativa o disparo carregado do arco secundário"
+    },
+    {
+        "id":5,
+        "tecla":"q",
+        "mensagem":"Desferindo golpe leve da",
+        "descricao":"Ativa o golpe simples da arma primária"
+    },
+    {
+        "id":6,
+        "tecla":"w",
+        "mensagem":"Desferindo golpe carregado da",
+        "descricao":"Ativa o golpe carregado da arma primária"
+    },
+    {
+        "id":7,
+        "tecla":"e",
+        "mensagem":"Desferindo golpe leve da",
+        "descricao":"Ativa o golpe simples da arma secundária"
+    },
+    {
+        "id":8,
+        "tecla":"r",
+        "mensagem":"Desferindo golpe carregado da",
+        "descricao":"Ativa o golpe carregado da arma secundária"
+    },
+    {
+        "id":9,
+        "tecla":"1",
+        "mensagem":"Erguendo o escudo",
+        "descricao":"Ergue o escudo equipado para que Bayek possa bloquear golpes"
+    },
+    {
+        "id":10,
+        "tecla":"2",
+        "mensagem":"Baixando o escudo",
+        "descricao":"Baixa o escudo equipado, deixando Bayek vulnerável"
+    },
+    {
+        "id":11,
+        "tecla":"3",
+        "mensagem":"Aparando ataque",
+        "descricao":"Apara o ataque do inimigo"
+    }
+]

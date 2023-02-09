@@ -1,0 +1,47 @@
+[
+    {
+        "id":0,
+        "id_classe":4,
+        "raridade":"Comum",
+        "tipo":"Espada",
+        "nome":"Espada comum",
+        "multiplicador_de_dano":1,
+        "descricao":"Espada xexelenta empunhada por um inimigo qualquer"
+    },
+    {
+        "id":1,
+        "id_classe":4,
+        "raridade":"Lendária",
+        "tipo":"Espada",
+        "nome":"Lobo Dourado",
+        "multiplicador_de_dano":1.02,
+        "descricao":"Empunhada pelo grande phylake 'O Forasteiro'"
+    },
+    {
+        "id":2,
+        "id_classe":2,
+        "raridade":"Lendária",
+        "tipo":"Maça",
+        "nome":"Maça de Cobre",
+        "multiplicador_de_dano":1.03,
+        "descricao":"Empunhada pelo grande phylake 'Punho de Ptolemeu'"
+    },
+    {
+        "id":3,
+        "id_classe":3,
+        "raridade":"Lendária",
+        "tipo":"Arco de caçador",
+        "nome":"Fumaça e Espelhos",
+        "multiplicador_de_dano":1.04,
+        "descricao":"Empunhada pelo grande phylake 'O Carneiro de Ferro'"
+    },
+    {
+        "id":4,
+        "id_classe":1,
+        "raridade":"Lendária",
+        "tipo":"Lança",
+        "nome":"Sarissa",
+        "multiplicador_de_dano":1.05,
+        "descricao":"Empunhada pelo grande phylake 'O Estranho'"
+    }
+]

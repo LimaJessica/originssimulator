@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "nome":"Armas longas",
+        "descrição":"Armas eficientes para combate corpo-a-corpo que garantem uma distância segura entre você e seu oponente"
+    },
+    {
+        "id":2,
+        "nome":"Armas pesadas",
+        "descrição":"Armas de corpo-a-corpo para os aficcionados por combate que adoram causar mais dano, mesmo que isso os custe mobilidade"
+    },
+    {
+        "id":3,
+        "nome":"Arcos",
+        "descrição":"A arma de fogo antes de sequer existirem armas de fogo. Excelente para inflingir dano a seus oponentes sem ao menos ser avistado"
+    },
+    {
+        "id":4,
+        "nome":"Espadas",
+        "descrição":"Dispensam apresentações"
+    }
+]

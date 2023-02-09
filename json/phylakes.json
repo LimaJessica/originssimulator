@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "nome":"O Forasteiro",
+        "nivel":40,
+        "dano_simples":500,
+        "dano_carregado":700,
+        "id_arma":1,
+        "barra_hp":1000,
+        "vivo":true
+    },
+    {
+        "id":2,
+        "nome":"Punho de Ptolemeu",
+        "nivel":45,
+        "dano_simples":550,
+        "dano_carregado":750,
+        "id_arma":2,
+        "barra_hp":1125,
+        "vivo":true
+    },
+    {
+        "id":3,
+        "nome":"O Carneiro de Ferro",
+        "nivel":47,
+        "dano_simples":600,
+        "dano_carregado":800,
+        "id_arma":3,
+        "barra_hp":1175,
+        "vivo":true
+    },
+    {
+        "id":4,
+        "nome":"O Estranho",
+        "nivel":49,
+        "dano_simples":650,
+        "dano_carregado":850,
+        "id_arma":4,
+        "barra_hp":1225,
+        "vivo":true
+    }
+]

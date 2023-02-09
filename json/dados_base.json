@@ -1,0 +1,33 @@
+[
+    {
+        "categoria":"PROTAGONISTA",
+        "nome_protagonista":"Bayek",
+        "hp_base":100,
+        "xp_base":0,
+        "nivel_base":1,
+        "vivo":true,
+        "dano_simples":20,
+        "dano_carregado":50
+    },
+    {
+        "categoria":"EQUIPAMENTO",
+        "id_traje_base":1,
+        "id_arma_primaria_base":1,
+        "id_arma_secundaria_base":null,
+        "id_arco_primario_base":1,
+        "id_arco_secundario_base":null
+    },
+    {
+        "categoria":"LOCALIZAÇÃO",
+        "id_localizacao_base":1,
+        "nome_localizacao_base":"Siuá",
+        "nivel_recomendado":1
+    },
+    {
+        "categoria":"COMPORTAMENTO",
+        "id_comportamento":1,
+        "tecla":"q",
+        "descricao":""
+    }
+]
+
